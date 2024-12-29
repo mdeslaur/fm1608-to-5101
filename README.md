@@ -2,7 +2,7 @@
 
 This is a small adapter board to use inexpensive DIP FM1608 FRAM memory
 chip in games that require a 5101 static ram to save ram contents during
-power off so a battery is no longer requires.
+power off so a battery is no longer required.
 
 For example, it can be used in Midway Omega Race or Williams Defender.
 
