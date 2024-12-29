@@ -20,5 +20,7 @@ Change history:
 2024-12-29 - 1.0 - Initial version  
 
 To Do:  
+- test in Omega Race
+- test in Defender
 
 Marc Deslauriers
