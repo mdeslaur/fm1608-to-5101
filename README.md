@@ -13,6 +13,9 @@ This design has not been tested yet, but will be soon.
 Gerbers, BOM, and other files to get the boards fabricated by JLCPCB are
 located in the production directory.
 
+A PDF of the schematic, and some 3d rendering images are in the docs
+directory.
+
 Change history:  
 2024-12-29 - 1.0 - Initial version  
 
