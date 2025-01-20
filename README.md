@@ -8,7 +8,7 @@ For example, it can be used in Midway Omega Race or Williams Defender.
 
 A 74HCT00 ic is required to handle the 5101's dual chip enable lines.
 
-This design has not been tested yet, but will be soon.
+This design has been tested in a Defender, and appears to work well.
 
 Gerbers, BOM, and other files to get the boards fabricated by JLCPCB are
 located in the production directory.
@@ -21,6 +21,5 @@ Change history:
 
 To Do:  
 - test in Omega Race
-- test in Defender
 
 Marc Deslauriers
